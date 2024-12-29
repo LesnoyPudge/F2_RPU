@@ -1,0 +1,10 @@
+
+*
+
+!.git
+!.gitignore
+!node_modules
+!package.json
+!_createArchive.js
+!_extractArchive.js
+!archive.zip
