@@ -1,19 +1,12 @@
 {
     "name": "fallout-2",
     "version": "1.0.0",
-    "main": "_createArchive.js",
-    "type": "module",
+    "main": "index.js",
     "scripts": {
-        "deploy": "git add . && git commit -m 'update' && git push && git status",
-        "zip": "node _createArchive.js",
-        "unzip": "node _extractArchive.js"
+        "deploy": "git add . && git commit -m 'update' && git push && git status"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "description": "",
-    "dependencies": {
-        "archiver": "^7.0.1",
-        "unzipper": "^0.12.3"
-    }
+    "description": ""
 }

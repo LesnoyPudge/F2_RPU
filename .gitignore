@@ -1,10 +1,22 @@
 
 *
+!*/
+
+backup
+node_modules
+appearance
+data/*
+!data/savegame
+!data/savegame/**/*
+Extras
+Manual
+mods/*
+!mods/*.ini
+!mods/*.txt
+sound
+translations
+!*.ini
 
 !.git
 !.gitignore
-!node_modules
 !package.json
-!_createArchive.js
-!_extractArchive.js
-!archive.zip
