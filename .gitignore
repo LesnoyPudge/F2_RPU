@@ -16,7 +16,7 @@ mods/*
 sound
 translations
 !*.ini
-
+!README.md
 !.git
 !.gitignore
 !package.json
