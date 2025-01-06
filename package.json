@@ -1,0 +1,12 @@
+{
+    "name": "fallout-2",
+    "version": "2.0.0",
+    "main": "https://forums.bgforge.net/viewtopic.php?t=401",
+    "scripts": {
+        "deploy": "git add . && git commit -m 'update' && git push && git status"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
